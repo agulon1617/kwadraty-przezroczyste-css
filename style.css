@@ -1,0 +1,10 @@
+div{
+    color:#f5f5dd ;
+    background-color: black;
+    width:200px;
+    height: 200px; 
+}
+.kwadrat1 {background-color:#000000;}
+.kwadrat2 {background-color:rgba(41, 3, 3, 0.13);} 
+.kwadrat3 {background-color: rgba(128, 128, 128, 0.925);}
+.kwadrat4 {background-color: gainsboro;}
